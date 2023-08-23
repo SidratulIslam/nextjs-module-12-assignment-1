@@ -1,0 +1,33 @@
+/* contact.module.css */
+.section-1 {
+    background-color: #f0f0f0;
+    padding: 20px;
+    margin-bottom: 40px;
+}
+
+.section-2 {
+    background-color: #e0e0e0;
+    padding: 20px;
+}
+
+.h2 {
+    font-size: 24px;
+    color: #333;
+    padding: 1em 0 1em 0;
+}
+
+.p {
+    font-size: 16px;
+    color: #666;
+    line-height: 1.5;
+    padding: 0.5rem 0 0.5rem 0;
+}
+
+.a {
+    color: #00f;
+    text-decoration: none;
+}
+
+.a:hover {
+    color: #0f0;
+}

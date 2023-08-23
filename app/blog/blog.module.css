@@ -1,0 +1,21 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.title {
+    font-size: 36px;
+    color: #333 !important;
+}
+
+.paragraph {
+    font-size: 18px;
+    color: #666;
+}
+
+.link {
+    font-size: 18px;
+    color: #00f;
+    text-decoration: none;
+}
