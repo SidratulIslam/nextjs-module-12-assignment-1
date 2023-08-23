@@ -1,5 +1,5 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-Website link: https://guileless-seahorse-911fb1.netlify.app/
+Website link: https://hilarious-conkies-fe891b.netlify.app/
 ## Getting Started
 
 First, run the development server:
